@@ -1,0 +1,27 @@
+## Project Proposal
+
+### Overview
+
+A app where parents can setup carpool for their kids to go to school. 
+
+### Technologies required 
+
+- Mapping API (Google Map or TomTom)
+
+### Data
+
+- User email, password, phone number
+- User address, car details, preferences
+- Information about the kid who is carpooling.
+- Class schedule for the kid carpooling (school start time and end time)
+
+### Roadmap
+
+#### MVP
+- Users can login
+- Users can view a list of parents who have registered to carpool
+- User can send request to a parent to add them as their carpool buddy.
+
+
+#### 2.0
+- Extend the application for multiple schools.
